@@ -1,0 +1,11 @@
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.csproj.AssemblyReference.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp3bgreenvillerevenuegui-CSC4162022-main\chp3bgreenvillerevenuegui-CSC4162022-main\obj\Debug\GreenvilleRevenueGUI.pdb

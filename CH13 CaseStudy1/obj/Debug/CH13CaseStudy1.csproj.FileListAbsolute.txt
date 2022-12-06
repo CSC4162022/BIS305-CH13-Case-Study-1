@@ -1,0 +1,11 @@
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\CH13CaseStudy1.csproj.AssemblyReference.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\CH13CaseStudy1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\CH13CaseStudy1.csproj.GenerateResource.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\CH13CaseStudy1.csproj.CoreCompileInputs.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\Niort\OneDrive\Desktop\BIS 305\CH13 CaseStudy 1\CH13 CaseStudy1\obj\Debug\GreenvilleRevenueGUI.pdb
